@@ -1,0 +1,28 @@
+/*******************tag selectors*************/
+body{
+  margin: 0;
+  background-color: #66bfbf;
+  text-align: center;
+}
+h1{
+  margin: 0;
+}
+
+
+
+/********************class selectors**************/
+.top-container{
+  position: relative;
+  padding-top: 100px;
+}
+.top-cloud{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
